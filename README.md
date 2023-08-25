@@ -33,7 +33,3 @@ This repository contains a small web application that is intentionally designed 
 
 **CAUTION:** This application intentionally includes a security vulnerability that can be exploited using SQL injection. Do not deploy this code in a production environment or on the public internet. It is solely for educational purposes.
 
-## Contributing
-```
-You can provide contributions to this project by [forking the repository](https://github.com/your-username/your-repo/fork), making your changes, and [creating a pull request](https://github.com/your-username/your-repo/compare) to the original repository. Your contributions are highly appreciated!
-```
